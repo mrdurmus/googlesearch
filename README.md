@@ -1,0 +1,1 @@
+This project is includes html and css codes to create a page that looks like Google Search page. 
